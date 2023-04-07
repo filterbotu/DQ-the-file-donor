@@ -200,7 +200,7 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @MoviezAddaKan
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MoviezAddaKan
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MoviezAddaKanPosts
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
