@@ -595,15 +595,9 @@ async def send_all(bot, userid, files, ident):
                 [
                     [
                   InlineKeyboardButton("𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
-                 ],[
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                ],[
-                    InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/MoviezAddaKan")
-                    ]
+                 ]
                 ]
             )
-        )
 #     for file in files:
 #         f_caption = file.caption
 #         title = file.file_name
