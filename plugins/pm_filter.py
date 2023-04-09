@@ -619,7 +619,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             protect_content=True if ident == 'checksubp' else False,
             reply_markup=InlineKeyboardMarkup(
                 [
-                 [
+                  [
+                  InlineKeyboardButton("𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
+                 ],[
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
